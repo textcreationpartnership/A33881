@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech and confession Mr. Stephen Colledge who was executed at Oxford on Wednesday, August 31, 1681</title>
+            <author>Colledge, Stephen, 1635?-1681.</author>
+         </titleStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33881</idno><idno type="EEBO-CITATION">11184750</idno>
+  <idno type="VID">46602</idno>
+  <idno type="EEBO-PROQUEST">2240863296</idno>
+  
+            <idno type="STC">Wing C5223</idno>
+            <idno type="STC">ESTC R29640</idno>
+            <idno type="OCLC">11184750</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A33881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1438:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech and confession Mr. Stephen Colledge who was executed at Oxford on Wednesday, August 31, 1681</title>
+                  <author>Colledge, Stephen, 1635?-1681.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="topical_term">Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="confession">
+            <pb n="1" facs="tcp:46602:1"/>
+            <head>The Last SPEECH AND CONFESSION OF Mr. Stephen Colledge, Who was Executed at <hi>Oxford</hi> on <hi>Wednesday August</hi> 31. 1681</head>
+            <p>A Great many of you appear by your Habits to be men of learning; and for me to make a Confession according to School-Art, I sup<g ref="char:EOLhyphen"/>pose none expect it from me. I am sensible I have had the eye of the World upon me for some little time past, which I here declare was occasioned by my own inconsideration, in hearkening to the allurements of this vain world.</p>
+            <p>I do here confess to God, the King, and my Countrey, That I have been a great Sinner against God, in my neglect of Duty to his Worship, and my being so much a stranger to his Holy Sacraments, and having so little regard to his Holy Church, in whose Bosom I rest in the midst of my Agonies, through the Mercies and Merits of my Redeemer Jesus Christ, who alone is able to deliver me from the bitterness of Eternal Death, and have hope, by my hearty sor<g ref="char:EOLhyphen"/>row for my many Offences, by the Merits of my Redeemer, to be made a Partaker of the promised Life in the world to come.</p>
+            <p>I have sinned against the best of Kings, in not having before my eyes that Aw, that Fear and Reverence that became me, as a Subject, to the greatest Tyrant in the world. For, as His Majesty is the undoubted Father of our Countrey, we ought to pay him Paternal Revernce, and sincere Love; But, on the contrary, I have had too easie thoughts of His Majesty, and have wickedly exposed my corrupt Imaginations, which have been falsly, malici<g ref="char:EOLhyphen"/>ously and traiterously traduced to the world, thereby thinking to stir up Sedition, and attain my wicked Ends and Purposes; But God, who disposes all things, bounds the Sea, and put a stop to that current of Confusion, which was intended against the best of Kings, and the best of Governments in the world. And I do here desire His Majesty to forgive me the sin that I have acted against Him, that it may not be imputed to me at the Tribunal where shortly I am summoned to appear, before which is Justice and Mercy, with<g ref="char:EOLhyphen"/>out the corruption of worldly Partiality. And I do desire, That all who see
+<pb n="2" facs="tcp:46602:2"/> this my shameful end, or shall hear of it, that they (next to the Fear and Reverence they ought to have to God) to have that Honour for the King and his Ministers, as becomes (not pretended, but) real Loyal and Dutiful Subjects; For I declare to you, That many who use those plausible preten<g ref="char:EOLhyphen"/>ces, never intend to be so in the least action, no further than it supports their Hypocrisie and Dissimulation, of which I have been too guilty, and desire all your Prayers here present, That God in his Mercy would accept this my Confession, with my true sorrow for the same.</p>
+            <p>I have sinned against my Countrey, in spending most part of my time for some years past in inventing of Seditions, tending not only to the disturbance of its Peace, but to the utter subversion of those wholsom Laws that have been made by our Ancestors, for the steady support, not only of every parti<g ref="char:EOLhyphen"/>cular man's Property and Right, but for the support of the whole; and how far such a mischief might have spread it self (had not Almighty God interpo<g ref="char:EOLhyphen"/>sed it) is beyond my thoughts to imagine.</p>
+            <p>Thus, having in general plainly declared the matters I am charged with, and for which I am justly to suffer; I desire God, the King, and my Coun<g ref="char:EOLhyphen"/>treys Forgiveness. It may be expected that I should say somewhat as to the particulars of my Tryal; I do declare, I had more favour shewn me than I could have imagined would be allowed to any person in my circumstances, for which I humbly thank His Majesty's Commissioners, (my Judges) and the rest of the Honourable Court. I do believe my Jury were honest consci<g ref="char:EOLhyphen"/>entious men; and that their Opinions were governed by the clearness of the Evidence that was deposed against me; and that they had no inbred prejudice against my Person or Perswasion, but discharg'd the Duty every honest man owes to God, his King, and Countrey, and with all patience heard any Defence I could make for my Life; which was very little to the purpose of what was deposed against me, and much less than what I was conscious to my self that I was guilty of.</p>
+            <p>I cannot object any particular circumstance that I was charged with by any of my Accusers, that is of any weight, and do forgive all the world, and heartily thank those worthy Divines who have spent much time and labour in order to my reconciling my self into the bosom of the Holy Church, in whose Communion I die, and beg the Prayers of all, so long as I have any time lent me; and do hope, that all that ever I have offended, or done in<g ref="char:EOLhyphen"/>jury to, will forgive me, and help me with their Prayers, that I may be the better enabled to approach the Throne of Mercy, which is prepared for all that truly believe, and fear God; which that you may all do, is the Prayers of the poor dying Penitent.</p>
+            <closer>
+               <signed>STEPHEN COLLEDGE.</signed>
+            </closer>
+            <argument>
+               <p>
+                  <hi>Then, praying some space in private, he submitted himself to the Executioner, who accordingly did his Office. His Body is begged by a worthy Relation, in or<g ref="char:EOLhyphen"/>der to its Interment.</hi>
+               </p>
+            </argument>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Banks, Anno Dom.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
